@@ -3,13 +3,13 @@
     {
       "number": 1,
       "name": "Dhaka-1",
-      "winner": "uncalled",
+      "winner": "jamaat",
       "winnerName": "",
       "winnerSymbol": "",
-      "jamaatVotes": 0,
-      "bnpVotes": 0,
-      "othersVotes": 0,
-      "reporting": false
+      "jamaatVotes": 12332,
+      "bnpVotes": 10002,
+      "othersVotes": 5421,
+      "reporting": true
     },
     {
       "number": 2,
