@@ -2137,13 +2137,13 @@
     {
       "number": 195,
       "name": "Satkhira-4",
-      "winner": "uncalled",
+      "winner": "jamaat",
       "winnerName": "",
       "winnerSymbol": "",
-      "jamaatVotes": 0,
+      "jamaatVotes": 1,
       "bnpVotes": 0,
       "othersVotes": 0,
-      "reporting": false
+      "reporting": true
     },
     {
       "number": 196,
