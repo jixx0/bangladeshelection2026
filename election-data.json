@@ -993,13 +993,13 @@
     {
       "number": 91,
       "name": "Cumilla-4",
-      "winner": "uncalled",
-      "winnerName": "",
-      "winnerSymbol": "",
-      "jamaatVotes": 0,
-      "bnpVotes": 0,
+      "winner": "jamaat",
+      "winnerName": "hasnat",
+      "winnerSymbol": "shapla",
+      "jamaatVotes": 172000,
+      "bnpVotes": 26000,
       "othersVotes": 0,
-      "reporting": false
+      "reporting": true
     },
     {
       "number": 92,
