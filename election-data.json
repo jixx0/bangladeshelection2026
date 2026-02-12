@@ -2016,11 +2016,11 @@
     {
       "number": 184,
       "name": "Jhenaidah-1",
-      "winner": "uncalled",
+      "winner": "BNP",
       "winnerName": "",
       "winnerSymbol": "",
       "jamaatVotes": 0,
-      "bnpVotes": 0,
+      "bnpVotes": 1,
       "othersVotes": 0,
       "reporting": false
     },
